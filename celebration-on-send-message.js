@@ -4,7 +4,7 @@
 // @run-at       main, chat
 // @reactive     true
 // @version      0.1.1
-// @homepageURL  https://github.com/yourusername/celebrate-scriptio
+// @homepageURL  https://github.com/Aboceder/Easy-Scriptio-Script
 // @author       bopomofo
 // ==/UserScript==
 
